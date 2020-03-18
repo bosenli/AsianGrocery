@@ -19,156 +19,156 @@
         "read_more": "阅读更多"
     },
     "unavailable": {
-        "hibernation_title": "我们将会回来 We'll be back",
-        "hibernation_message": "感谢光临！ 我们的商店暂时无法使用，对此表示歉意，请稍后回来。Thanks for visiting. Our store is currently unavailable. We apologize for any inconvenience caused.",
-        "maintenance_title": "更新中 Down for Maintenance",
-        "maintenance_message": "由于更新中，该商店当前暂时不方便使用。 我们对此造成的任何不便表示歉意。 This store is currently unavailable due to maintenance. It should be available again shortly. We apologize for any inconvenience caused."
+        "hibernation_title": "我们将会回来",
+        "hibernation_message": "感谢光临！ 我们的商店暂时无法使用，对此表示歉意，请稍后回来.",
+        "maintenance_title": "更新中...",
+        "maintenance_message": "由于更新中, 该商店当前暂时不方便使用. 我们对此造成的任何不便表示歉意."
     },
     "brands": {
-        "no_products": "该品牌暂时没有列出任何产品。 There are no products listed under this brand."
+        "no_products": "该品牌暂时没有列出任何产品."
     },
     "categories": {
-        "no_products": "暂时没有此类别的产品 There are no products listed under this category."
+        "no_products": "暂时没有此类别的产品. "
     },
     "checkout": {
         "title": "结账"
     },
     "cart": {
-        "continue_shopping": "点击这里继续购物 Click here to continue shopping",
+        "continue_shopping": "点击这里继续购物",
         "items": "{NUM, plural, =0{(0 items)} one {(# item)} other {(# items)}}",
         "checkout": {
             "address": {
-                "multiple": "使用多处地址结算 check out with multiple addresses",
-                "or": "或者 or"
+                "multiple": "使用多处地址结算",
+                "or": "或"
             },
-            "button": "结算 Check out",
-            "empty_cart": "购物车为空 Your cart is empty",
-            "title": "点击这里完成结算 Click here to proceed to checkout",
-            "item": "商品 Item",
-            "price": "价钱 Price",
-            "quantity": "数量 Quantity",
-            "total": "总计 Total",
-            "change": "零钱 Change",
-            "subtotal": "小计 Subtotal",
-            "enter_code": "优惠码/礼卡卷 Coupon code / Gift certificate",
-            "gift_wrapping": "包装成礼物 Gift wrapping",
-            "shipping": "邮寄 Shipping",
-            "grand_total": "累计 Grand total",
-            "select": "选择 Select",
-            "update": "更新运费 Update shipping cost"
+            "button": "按钮",
+            "empty_cart": "购物车为空",
+            "title": "点击这里完成结算",
+            "item": "商品",
+            "price": "价钱",
+            "quantity": "数量",
+            "total": "总计",
+            "change": "找回",
+            "subtotal": "小计",
+            "enter_code": "优惠码/礼卡卷",
+            "gift_wrapping": "包装成礼物",
+            "shipping": "邮寄",
+            "grand_total": "累计",
+            "select": "选择",
+            "update": "更新运费"
         },
         "preview": {
-            "checkout_now": "结算 Check out",
-            "checkout_multiple": "或者使用多处地址结算 or check out with multiple addresses",
-            "view_cart": "浏览购物车 View Cart"
+            "checkout_now": "结算",
+            "checkout_multiple": "或使用多处地址结算",
+            "view_cart": "浏览购物车"
         },
-        "label": "您的购物车 Your Cart ({quantity, plural, one {# item} other {# items}})",
-        "is_empty": " 您的购物车是空的 Your cart is empty",
-        "coupon_code": "优惠码 Coupon Code",
-        "discount": "折扣 Discount",
-        "gift_certificate": "礼券 Gift Certificate",
-        "remove_file": "删除该文件 Remove this file",
-        "freeshipping": " 免邮 Free Shipping",
-        "reconfigure_product": "配置 Configure '{name}'",
-        "shipping_peritem": "单件运输 Per Item Shipping",
-        "confirm_delete": "确定要删除这件商品吗？ Are you sure you want to delete this item?",
+        "label": "您的购物车({quantity, plural, one {# item} other {# items}})",
+        "is_empty": " 您的购物车是空的",
+        "coupon_code": "优惠码",
+        "discount": "折扣",
+        "gift_certificate": "礼券",
+        "remove_file": "删除该文件",
+        "freeshipping": " 免邮",
+        "reconfigure_product": "配置'{name}'",
+        "shipping_peritem": "单件运输",
+        "confirm_delete": "确定要删除这件商品吗?",
         "coupons": {
-            "empty_error": "请输入优惠码 Please enter your coupon code.",
-            "cancel": "取消 Cancel",
-            "add_code": "添加优惠码 Add code",
-            "add_coupon": "添加优惠卷 Add Coupon",
-            "button": "应用 Apply",
-            "coupon_code": "输入优惠码 Enter your coupon code",
-            "code_label": "优惠码 Coupon ({code})",
-            "remove": " 移除 Remove"
+            "empty_error": "请输入优惠码.",
+            "cancel": "取消",
+            "add_code": "添加优惠码",
+            "add_coupon": "添加优惠卷",
+            "button": "应用",
+            "coupon_code": "输入优惠码",
+            "code_label": "优惠码 ({code})",
+            "remove": " 移除"
         },
         "gift_certificates": {
-            "add_cert_code": "添加礼卷 Add Certificate",
-            "gift_certificate": "礼品卷 Gift Certificate",
-            "code_label": "礼卷卷码 Gift Certificate ({code})",
-            "cert_code": " 请输入你的礼卷码 Enter your certificate code",
-            "empty_error": "请输入正确的礼卷码 Please enter your valid certificate code.",
-            "remove": "移除 Remove"
+            "add_cert_code": "添加礼卷",
+            "gift_certificate": "礼品卷",
+            "code_label": "礼卷码 ({code})",
+            "cert_code": " 请输入你的礼卷码",
+            "empty_error": "请输入正确的礼卷码。",
+            "remove": "移除"
         },
         "shipping_estimator": {
-            "add_info": "添加信息 Add Info",
-            "select_a_country": "国家 Country",
-            "select_a_state": "州/省 State/province",
-            "estimate_shipping": "预计邮寄费 Estimate Shipping",
-            "suburb_city": "城市 Suburb/city",
-            "zip_postal_code": "邮编号 Zip/postcode",
-            "free_shipping": "免邮 Free shipping",
-            "hide_ups_rates": "预览UPS费率 Hide UPS Rates",
-            "show_ups_rates": "显示UPS费率 Show UPS Rates"
+            "add_info": "添加信息",
+            "select_a_country": "国家",
+            "select_a_state": "州/省",
+            "estimate_shipping": "预计邮寄费",
+            "suburb_city": "城市",
+            "zip_postal_code": "邮编号",
+            "free_shipping": "免邮",
+            "hide_ups_rates": "预览UPS费率",
+            "show_ups_rates": "显示UPS费率"
         },
         "gift_wrapping": {
-            "title": "礼物包装 Gift Wrapping",
-            "add": "添加 Add",
-            "change": "更改 Change",
-            "remove": "取消 Remove",
-            "choose_how": "请选择您想如何包装此礼物。Please choose how you'd like to have this item gift wrapped.",
-            "option_same": "我想使用相同的方式来包装每个物品。I'd like to wrap each of this item using the same wrapping options",
-            "item_single": "包装礼物 Gift wrapping - {name}",
-            "item_multiple": "商品 Item {index} - {name}",
-            "option_different": "分开包装 I'd like to gift wrap each item separately",
-            "choose_type": "请选择礼品包装的类型 Please choose a type of gift wrapping",
-            "gift_message": "礼物留言Gift Message",
-            "remove_confirm": "您确定要从该物品上移除礼品包装吗？Are you sure you want to remove the gift wrapping from this item?",
-            "preview": "预览 Preview"
+            "title": "礼物包装",
+            "add": "添加",
+            "change": "更改",
+            "remove": "取消",
+            "choose_how": "请选择您想如何包装此礼物。",
+            "option_same": "我想使用相同的方式来包装每个物品。",
+            "item_single": "包装礼物 - {name}",
+            "item_multiple": "商品 {index} - {name}",
+            "option_different": "分开包装",
+            "choose_type": "请选择礼品包装的类型",
+            "gift_message": "礼物留言",
+            "remove_confirm": "您确定要从该物品上移除礼品包装吗?",
+            "preview": "预览"
         },
         "added_to_cart": {
-            "what_next": "完成 Ok, {num_products, plural, one {1 item was} other {# items were}} added to your cart. What's next?",
-            "your_cart_contains": " 您的购物车包含 Your cart now contains {num_products, plural, one {1 item} other {# items}}",
-            "proceed_to_checkout": "前往结算 Proceed to checkout",
-            "order_subtotal": "小计 Subtotal",
-            "continue_shopping": "继续购物 Continue Shopping",
-            "view_or_edit_cart": "编辑/预览购物车 View or edit your cart",
-            "you_might_also_like": "你可能还会喜欢 You may also like"
+            "what_next": "完成, {num_products, plural, one {1 item was} other {# items were}} 加入了您的购物车. 下一个任务是?",
+            "your_cart_contains": " 您的购物车包含 {num_products, plural, one {1 item} other {# items}}",
+            "proceed_to_checkout": "前往结算",
+            "order_subtotal": "小计",
+            "continue_shopping": "继续购物",
+            "view_or_edit_cart": "浏览或编辑您的购物车",
+            "you_might_also_like": "你可能还会喜欢"
         }
     },
     "common": {
-        "store_credit": " 你有 You have <strong>{store_credit}</strong> of store credit. To use it, simply place your order and you will be able to choose store credit as the payment method when it comes time to pay for your order.",
-        "store_credit_overview": "{credit} Store Credit",
-        "generic_error": "请重新尝试 Oops! Something went wrong.",
+        "store_credit": " 你有 <strong>{store_credit}</strong> 的本站余额. 如果要用此余额，请下单时选择用本站余额付款.",
+        "store_credit_overview": "{credit} 本站余额",
+        "generic_error": "请重新尝试.",
         "currency": "{code}",
         "newsletter_signup": "注册得知本站最新通讯",
-        "form_submit": "提交 Submit",
-        "no_preference": "无偏好 No Preference",
-        "other_details": "其他细节 Other Details",
-        "required": "必须 Required",
-        "email_address": "Email邮件地址 Email Address",
-        "edit": "编辑Edit",
+        "form_submit": "提交",
+        "no_preference": "无偏好",
+        "other_details": "其他细节",
+        "required": "必须填写",
+        "email_address": "Email邮箱地址",
+        "edit": "编辑",
         "not_applicable": "N/A",
-        "no": "No 不是",
-        "yes": "Yes 是",
-        "from": "来自From",
-        "to": "去 to",
-        "cancel": "取消Cancel",
-        "close": "关闭Close",
-        "or": "或者or",
-        "compare": "比较 Compare",
+        "no": "不是",
+        "yes": "是",
+        "from": "来自",
+        "to": "去",
+        "cancel": "取消",
+        "close": "关闭",
+        "or": "或or",
+        "compare": "比较",
         "sign_up": "注册",
         "login": "登录",
         "logout": "登出",
-        "account": "我的账号 My Account",
-        "cart": "购物车 Cart",
-        "search": "搜索 Search",
-        "gift_cert": "Gift Certificates",
-        "save": "保存Save",
-        "share": "分享 Share",
-        "delete": "删除 Delete",
-        "public": "公共 Public",
-        "private": "私人 Private",
-        "view_all": "预览全部 View All",
-        "all": "全部 All",
+        "account": "我的账户",
+        "cart": "购物车",
+        "search": "搜索",
+        "gift_cert": "礼品券",
+        "save": "保存",
+        "share": "分享",
+        "delete": "删除",
+        "public": "公共",
+        "private": "私人",
+        "view_all": "浏览全部",
+        "all": "全部",
         "paginator": {
-            "page_of": " 页Page {current} of {total}"
+            "page_of": " 在页码 {current} of {total}"
         },
-        "prices_are_in": "价格在 Prices are in {CODE}",
-        "previous": "返回 Prev",
-        "next": "前进 Next",
+        "prices_are_in": "价格在 {CODE}",
+        "previous": "返回",
+        "next": "前进",
         "sorter": {
-            "relevance": "相关的 Relevance",
+            "relevance": "相关的",
             "sort_by": "排序方式:",
             "featured": "本站精选",
             "top_sellers": "热销量",
@@ -179,68 +179,68 @@
             "price_asc": "价格由低到高",
             "price_desc": "价格由高到低"
         },
-        "loading": "加载中 Loading",
-        "month": "月 Month",
-        "day": "天 Day",
-        "year": "年Year",
+        "loading": "加载中...",
+        "month": "月",
+        "day": "天",
+        "year": "年",
         "short_months": {
-            "1": "一月 Jan",
-            "2": "二月 Feb",
-            "3": "三月 Mar",
-            "4": "四月 Apr",
-            "5": "五月 May",
-            "6": " 六月 Jun",
-            "7": "七月 Jul",
-            "8": "八月 Aug",
-            "9": "九月 Sep",
-            "10": "十月 Oct",
-            "11": "十一月 Nov",
-            "12": "十二月 Dec"
+            "1": "一月",
+            "2": "二月",
+            "3": "三月",
+            "4": "四月",
+            "5": "五月",
+            "6": " 六月",
+            "7": "七月",
+            "8": "八月",
+            "9": "九月",
+            "10": "十月",
+            "11": "十一月",
+            "12": "十二月"
         }
     },
     "compare": {
-        "button": "比较产品 Compare Products",
-        "header": "比较中 Comparing {products, plural, one {# Product} other {# Products}}",
-        "remove": "移除 Remove",
-        "no_remove": "至少需要2个产品才能进行有效比较。At least 2 products are needed to make a valid comparison.",
-        "add_to_cart": "加入购物车 Add to cart"
+        "button": "比较产品",
+        "header": "比较中 {products, plural, one {# Product} other {# Products}}",
+        "remove": "移除",
+        "no_remove": "至少需要2个产品才能进行有效比较.",
+        "add_to_cart": "加入购物车"
     },
     "category": {
-        "label": "种类 Categories",
-        "shop_by_price": "按价格购物 Shop By Price",
-        "reset": "重置 Reset",
+        "label": "种类",
+        "shop_by_price": "按价格购物",
+        "reset": "重置",
         "view_all": {
-            "name": "所有 All {category}"
+            "name": "所有 {category}"
         }
     },
     "brand": {
-        "label": "品牌 Brands",
-        "view_brands": "查看所有品牌 View all brands"
+        "label": "品牌",
+        "view_brands": "查看所有品牌"
     },
     "gift_certificate": {
-        "heading": "礼品卡 Gift Certificates",
+        "heading": "礼品卡",
         "purchase": {
-            "heading": "购买礼品卡 Purchase Gift Certificate"
+            "heading": "购买礼品卡"
         },
         "redeem": {
-            "heading": "兑换礼券 Redeem Gift Certificate",
-            "intro": "完成以下步骤兑换礼卡 To redeem a gift certificate at {store_name}, follow the simple steps below.",
-            "item1": "请在礼卡上找出礼卡号 You need your unique gift certificate code, which is part of the gift certificate that was emailed to you as an attachment. 它像这样的格式 It will look something like Z50-Y6K-COS-402.",
-            "item2": "把商品像往常一样加入购物车 Browse the store and add items to your cart as you normally would.",
-            "item3": " 点击这里 Click the '<a href=\"{cart_url}\">View Cart</a>' link to view the contents of your shopping cart.",
-            "item4": "输入礼卡卷上的礼卡号 Type your gift certificate code in to the 'Redeem Gift Certificate' box and click 'Go'."
+            "heading": "兑换礼券",
+            "intro": "在{store_name} 兑换礼卡，完成以下步骤.",
+            "item1": "请在礼卡上找出礼卡号.卡号位于用电子邮件发给您的文件上.卡号像这样的格式 Z50-Y6K-COS-402.",
+            "item2": "把商品像往常一样加入购物车.",
+            "item3": " 点击这里'<a href=\"{cart_url}\">浏览购物车</a>' 的链接来浏览您购物车的内容.",
+            "item4": "在'兑换礼卡'的格子中输入礼卡卷上的礼卡号，然后点击下一步."
         },
         "balance": {
-            "heading": "查看礼卡卷余额 Check Gift Certificate Balance",
-            "intro": "你可以输入礼卡号码查询卡上的余额 You can check the balance of a gift certificate by typing the code in to the box below."
+            "heading": "查看礼卡卷余额",
+            "intro": "你可以在下面输入礼卡号码查询卡上的余额."
         }
     },
     "create_account": {
-        "heading": "新账户 New Account",
+        "heading": "新账户",
         "created": {
-            "heading": "您的帐号已经建立 Your account has been created",
-            "intro": "感谢您在{store_name}上创建帐户。 您的帐户详细信息已通过电子邮件发送给。 Thank you for creating your account at {store_name}. Your account details have been emailed to <strong>{email}</strong>",
-            "continue": "继续购物 Continue Shopping"
+            "heading": "您的帐号已经建立",
+            "intro": "感谢您在 {store_name} 上创建帐户。 您的帐户详细信息已发送到您的电子邮件 <strong>{email}</strong>",
+            "continue": "继续购物"
         }
     },
     "login": {
@@ -265,112 +265,112 @@
         "intro": "输入您的电子邮箱地址来设置新的密码"
     },
     "account": {
-        "breadcrumb": "你的账户 Your Account",
+        "breadcrumb": "您的账户",
         "nav": {
-            "overview": "预览 Overview",
-            "orders": "订单 Orders",
-            "returns": "退换 Returns",
-            "messages": "留言 Messages ({num_new_messages})",
-            "wishlists": "愿望单 Wish Lists ({num_wishlists})",
-            "recently_viewed": "最近浏览Recently Viewed",
-            "settings": "账户设置Account Settings",
-            "addresses": "地址Addresses",
-            "payment_methods": "支付方式Payment Methods"
+            "overview": "总览",
+            "orders": "订单",
+            "returns": "退换",
+            "messages": "短信 ({num_new_messages})",
+            "wishlists": "愿望单 ({num_wishlists})",
+            "recently_viewed": "最近浏览",
+            "settings": "账户设置",
+            "addresses": "地址",
+            "payment_methods": "支付方式"
         },
         "mobile_nav": {
-            "messages": "留言 Messages",
-            "wishlists": "愿望单 Wish Lists"
+            "messages": "短信",
+            "wishlists": "愿望单"
         },
         "addresses": {
-            "heading": "地址 Addresses",
-            "add_heading": "添加新地址 Add New Address",
-            "primary": "主要电话 Primary",
-            "phone": "电话 Phone:",
-            "new_address": "新地址 New Address",
-            "no_addresses": "您目前没有添加地址资料到您的个人资料。You currently have no addresses added to your profile"
+            "heading": "地址",
+            "add_heading": "添加新地址",
+            "primary": "主要电话",
+            "phone": "电话:",
+            "new_address": "新地址",
+            "no_addresses": "您目前没有添加地址资料到您的个人资料"
         },
         "messages": {
-            "heading": "留言 Messages",
-            "customer_said": "发表 You said:",
-            "merchant_said": "{store_name} 说 said:"
+            "heading": "短信",
+            "customer_said": "发表:",
+            "merchant_said": "{store_name} 说:"
         },
         "orders": {
-            "heading": "订单 Orders",
-            "none": "您尚未向我们下任何订单。 当完成新订单后，订单状态将显示在此页面上。You haven't placed any orders with us. When you do, their status will appear on this page.",
+            "heading": "订单",
+            "none": "您尚未向我们下任何订单.当完成新订单后，订单状态将显示在此页面上.",
             "return": {
-                "already_returned": "该订单显示没有商品可退还。 您是否已经退回了此订单中的所有物品？This order contains no products that can be returned. Have you already returned all of the items within this order?",
-                "back_button": "返回 Go back",
-                "order_item": "商品 Item",
-                "item_price": "价格 Price",
-                "quantity": "退还数量 Qty To Return",
-                "why": "什么理由让你选择退还呢？ Why are you returning these items?",
-                "reason": "退还理由Return Reason",
-                "action": "退还 Return Action",
-                "comments": "注释 Comments"
+                "already_returned": "该订单显示没有商品可退还。 您是否已经退回了此订单中的所有物品?",
+                "back_button": "返回",
+                "order_item": "商品",
+                "item_price": "价格",
+                "quantity": "退还数量",
+                "why": "什么理由让你选择退还呢?",
+                "reason": "退还理由",
+                "action": "退还",
+                "comments": "注释"
             },
-            "gift_wrapping": "礼品包装 Gift wrapping:",
+            "gift_wrapping": "礼品包装:",
             "refunded": "已返款 (Refunded)",
             "refunded_quantity": "已返款数量 ({qty} refunded)",
-            "return_item": "退还 Return",
-            "return_items": "退还产品 Return Items?",
-            "order_placed": "订单完成 Order Placed",
-            "last_update": "最后更新 Last Update",
+            "return_item": "退还",
+            "return_items": "退还产品?",
+            "order_placed": "订单完成",
+            "last_update": "最后更新",
             "list": {
-                "order_number": "订单号 Order #{number}",
-                "product_details": "{num_products, plural, one {1 product} other {# products}} 总共 totaling {cost}"
+                "order_number": "订单# {number}",
+                "product_details": "{num_products, plural, one {1 product} other {# products}} 总共 {cost}"
             },
             "details": {
-                "heading": "订单号 Order #{number}",
-                "order_contents": "订单内容 Order Contents",
-                "ship_to": "邮寄到 Ship To",
-                "ship_to_multi": "已发货到 Items shipped to {street}, {city}, {state}, {zip}, {country}",
-                "ship_to_multi_text": "订单会发货到多个地址 Order will be shipped to multiple addresses",
-                "bill_to": "记账到 Bill To",
-                "how_to_pay": "付款方式如下：Here's how to pay for your order:",
-                "order_details": "订单详细信息 Order Details",
-                "order_total": "订单总计 Order total:",
-                "order_status": "订单状态 Order status:",
-                "payment_date": "订单日期 Order date:",
-                "payment_method": "付款方式 Payment method:",
-                "comments": "订单注释 Order Comments",
-                "download_items": "下载商品 Download Items",
-                "card_ending": "结尾号 ending in {card}",
+                "heading": "订单# {number}",
+                "order_contents": "订单内容",
+                "ship_to": "邮寄到",
+                "ship_to_multi": "已发货到 {street}, {city}, {state}, {zip}, {country}",
+                "ship_to_multi_text": "订单会发货到多个地址",
+                "bill_to": "记账到",
+                "how_to_pay": "付款方式如下:",
+                "order_details": "订单详细信息",
+                "order_total": "订单总计:",
+                "order_status": "订单状态:",
+                "payment_date": "订单日期:",
+                "payment_method": "付款方式:",
+                "comments": "订单注释",
+                "download_items": "下载商品",
+                "card_ending": "结尾号 {card}",
                 "shipments": {
-                  "date": "邮寄日期 Date Shipped",
-                  "method": "邮寄方式 Shipping Method",
-                  "link": "追踪号 Tracking Link",
-                  "header": "邮寄细节 Shipping Details"
+                  "date": "邮寄日期",
+                  "method": "邮寄方式",
+                  "link": "追踪链接",
+                  "header": "邮寄细节"
                 },
-                "actions": "行动 Actions",
-                "reorder": "重新下订单Reorder",
-                "return": "退回 Return",
-                "print_invoice": "打印收据 Print Invoice"
+                "actions": "行动",
+                "reorder": "重新下订单",
+                "return": "退回",
+                "print_invoice": "打印收据"
             },
             "downloads": {
-                "heading": "订单号 Order #{number} Downloads",
-                "download_files_below": "请在下方下载所需的文件Below you can download the files for",
-                "expired_content": "文件已过期 File has expired",
+                "heading": "订单#{number} 下载",
+                "download_files_below": "请在下方下载所需的文件",
+                "expired_content": "文件已过期",
                 "days_remaining": "{number, plural, one {1 day} other {# days}}",
-                "downloads_remaining": "{number, plural, one {1 download} other {# downloads}} 剩余 remaining",
-                "days_or_downloads": "or {number} 下载 downloads",
-                "remaining": "剩余 remaining"
+                "downloads_remaining": "{number, plural, one {1 download} other {# downloads}} 剩余",
+                "days_or_downloads": "or {number} 下载",
+                "remaining": "剩余"
             }
         },
         "payment_methods": {
-            "heading": "支付方式 Payment Methods",
-            "payment_method": "支付方式 Payment method",
-            "billing_address": "帐单地址 Billing address",
-            "card_ending_in": "卡的尾号 ending in {last_four}",
+            "heading": "支付方式",
+            "payment_method": "支付方式",
+            "billing_address": "帐单地址",
+            "card_ending_in": "卡的尾号 {last_four}",
             "card_expiry": "{month}/{year}",
-            "new_payment_method": "添加新的付款方式 Add new payment method",
-            "no_methods": "你目前没有添加新的付款方式 You currently have no payment methods added to your account",
-            "name_on_card": "持卡人姓名 Name on Card",
-            "credit_card_number": "信用卡号码 Credit Card Number",
-            "expiration": "到期日期 Expiration",
+            "new_payment_method": "添加新的付款方式",
+            "no_methods": "你目前没有添加新的付款方式",
+            "name_on_card": "持卡人姓名",
+            "credit_card_number": "信用卡号码",
+            "expiration": "到期日期",
             "cvv": "CVV",
             "card_types": {
-                "american_express": "美国运通 American Express",
-                "credit_card": "信用卡 Credit Card",
+                "american_express": "American Express",
+                "credit_card": "Credit Card",
                 "dankort": "Dankort",
                 "diners": "Diners Club",
                 "discover": "Discover",
@@ -381,429 +381,429 @@
             },
             "paypal": "PayPal",
             "billing_address_labels": {
-              "address_line_1": "地址1 Address Line 1",
-              "address_line_2": "地址2 Address Line 2",
-              "suburb_city": "城市 Suburb/City",
-              "state_province": "州/省 State/Province",
-              "choose_state": "选择一个州 Choose a State",
-              "country": "国家 Country",
-              "choose_country": "选择一个国家 Choose a Country",
-              "zip_postcode": "邮编/邮政编码 Zip/Postcode"
+              "address_line_1": "地址行",
+              "address_line_2": "地址行（继续）",
+              "suburb_city": "城市",
+              "state_province": "州/省",
+              "choose_state": "选择一个州",
+              "country": "国家",
+              "choose_country": "选择一个国家",
+              "zip_postcode": "邮编/邮政编码"
             }
         },
         "returns": {
-            "heading": "退回 Returns",
-            "instructions": "退货说明 Return Instructions",
-            "error_no_qty": "请选择一或多个产品退回？ Please select one or more items to return.",
-            "none": "您尚未向我们下任何订单。 当完成新订单后，订单状态将显示在此页面上 You haven't placed any returns with us. When you do, they will appear on this page.",
-            "new_return": "选择新退货 New Return",
-            "from_order": "退货商品的订单号是 Return Items from Order #{id}",
-            "date_requested": "要求退货 Return Requested",
-            "successful_heading": "退货请求已提交 Return Request Submitted",
-            "successful": "退货请求已成功提交,我们将会尽快给你答复.Your return was submitted successfully. We'll respond as soon as we can.",
-            "return": "返回订单中心Return to Orders",
-            "last_update": "最后更新 Last Update",
-            "reason": "退货原因 Return Reason",
-            "action": "退货请求 Return Action",
-            "comments": "你的评论 Your Comments",
+            "heading": "退换",
+            "instructions": "退货说明",
+            "error_no_qty": "请选择一或多个产品退回？",
+            "none": "您尚未向我们下任何退回单。如果有，退回单状态将显示在此页面上.",
+            "new_return": "选择新退货",
+            "from_order": "退货商品的订单#{id}",
+            "date_requested": "要求退货",
+            "successful_heading": "退货请求已提交",
+            "successful": "退货请求已成功提交,我们将会尽快给你答复.",
+            "return": "返回订单中心",
+            "last_update": "上一次更新",
+            "reason": "退货原因",
+            "action": "退货请求",
+            "comments": "您的评论",
             "list": {
-                "return_number": "返回 Return #{id}",
-                "product_details": "返回 Returning {num_products}"
+                "return_number": "退货#{id}",
+                "product_details": "退货 {num_products}"
             },
             "status": {
-                "pending": "正在处理中 Pending",
-                "received": "已收到 Received",
-                "authorized": "已授权 Authorized",
-                "repaired": "已处理 Repaired",
-                "refunded": "已退款 Refunded",
-                "rejected": "已拒绝 Rejected",
-                "cancelled": "已取消 Cancelled"
+                "pending": "正在处理中",
+                "received": "已收到",
+                "authorized": "已授权",
+                "repaired": "已处理",
+                "refunded": "已退款",
+                "rejected": "已拒绝",
+                "cancelled": "已取消"
             }
         },
         "settings": {
-            "heading": "账户设置 Account Settings",
-            "first_name": "名 First Name",
-            "last_name": "姓 Last Name",
-            "email": "电子邮箱地址 Email Address",
-            "company": "公司 Company",
-            "phone": "电话号码 Phone Number",
-            "old_password": "旧密码 Old Password",
-            "new_password": "新密码 New Password",
-            "confirm_password": "确认密码 Confirm Password",
-            "update_details": "更新细节 Update Details"
+            "heading": "账户设置",
+            "first_name": "名",
+            "last_name": "姓",
+            "email": "电子邮箱地址",
+            "company": "公司",
+            "phone": "电话号码",
+            "old_password": "旧密码",
+            "new_password": "新密码",
+            "confirm_password": "确认密码",
+            "update_details": "更新细节"
         },
         "recent_items": {
-            "heading" : "最近浏览 Recently Viewed",
-            "no_items": "您最近在本站浏览的物品会出现在以下位置 The items you've recently looked at on our site will appear below."
+            "heading" : "最近浏览",
+            "no_items": "您最近在本站浏览的商品会出现在以下位置."
         },
         "wishlists": {
-            "heading": "心愿单 Wish Lists",
-            "tag_line": "填写下面的表格来创建新的心愿单. 如果完成，请点击Fill in the form below to create a new Wish List. Click the \"创建心愿单Create Wish List\" 按钮button when you're done.",
-            "new": "新的心愿单 New Wish List",
-            "you_have_none": "您没有心愿单，现在添加一个吧 You have no Wish Lists, add one now.",
-            "empty_wishlist": "您的心愿单是空的. Your Wish List is empty. When you add items to your Wish List they will appear here.",
-            "num_items": "物品 Items",
-            "add_item": "加入心愿单 Add to Wish List",
-            "remove_item": "移除物品 Remove Item",
-            "name": "心愿单名称 Wish List Name",
-            "shared": "已分享 Shared",
-            "action": "动作 Action",
-            "add": "加入心愿单 Add Wish List",
-            "delete_all": "删除所有 Delete All",
-            "edit": "编辑心愿单 Edit Wish List",
-            "view_heading": "心愿单 Wish List: {name}",
-            "share_intro": "分享您的心愿单给朋友 Share this Wish List with friends:",
+            "heading": "心愿单",
+            "tag_line": "填写下面的表格来创建新的心愿单. 如果完成，请点击 \"创建心愿单\" 按钮.",
+            "new": "新的心愿单",
+            "you_have_none": "您没有心愿单，现在添加一个吧.",
+            "empty_wishlist": "您的心愿单是空的.如果你加入商品到您的心愿单，他们会在这里显示.",
+            "num_items": "物品",
+            "add_item": "加入心愿单",
+            "remove_item": "移除物品",
+            "name": "心愿单名字",
+            "shared": "已分享",
+            "action": "处理",
+            "add": "加入心愿单",
+            "delete_all": "删除所有",
+            "edit": "编辑心愿单",
+            "view_heading": "心愿单: {name}",
+            "share_intro": "分享您的心愿单给朋友:",
             "num_products": "{num_products, plural, one {1 product} other {# products}}",
-            "create": "创建心愿单 Create Wish List",
-            "save": "保存心愿单 Save Wish List",
-            "delete_alert": "您确认要删除您的心愿单吗？删除后是不可恢复的 Are you sure you want to delete your Wish List(s)? This action cannot be undone.",
-            "create_new": "创建新的心愿单 Create Wish List",
-            "add_to_default": "加入到我的心愿单 Add to My Wish List"
+            "create": "创建心愿单",
+            "save": "保存心愿单",
+            "delete_alert": "您确认要删除您的心愿单吗？删除后是不可恢复的.",
+            "create_new": "创建新的心愿单",
+            "add_to_default": "加入到我的心愿单"
         }
     },
     "page": {
-        "label": "快速链接 Quick Links",
+        "label": "快速链接",
         "rss": {
-            "intro": "RSS feeds are used for syndicating regularly changing content on a web site, including this one. You can open an RSS feed using an RSS reader and use it to see if there is any new content on this site or you can set up a server-side script to parse the feed and display it on your web site.",
-            "heading": "RSS Syndication",
+            "intro": "RSS提要用于联合定期更改网站上的内容，包括该内容。您可以使用RSS阅读器打开RSS提要，并使用它来查看此站点上是否有任何新内容，或者可以设置服务器端脚本来解析提要并将其显示在您的网站上。",
+            "heading": "RSS 联合",
             "blog": {
                 "heading": "最新博客更新",
-                "intro": "The recent post feed contains the latest {limit} blog posts published on {store}.",
-                "rss": "Latest {limit} Blog Posts (RSS)",
-                "rss_atom": "Latest {limit} Blog Posts (Atom)"
+                "intro": "最近的内容包含最新的 {limit} 博客创立于 {store}.",
+                "rss": "最新的 {limit} 博客发布于 (RSS)",
+                "rss_atom": "最新的 {limit} 博客发布于 (Atom)"
             },
             "products": {
                 "new": {
                     "heading": "新产品",
-                    "intro": "The latest products feed contains the latest {limit} products added to {store}.",
-                    "rss": "Latest {limit} New Products (RSS)",
-                    "rss_atom": "Latest {limit} New Products (Atom)"
+                    "intro": "最新的产品内容包含 {limit} 产品加入到 {store}.",
+                    "rss": "最新的 {limit} 新产品 (RSS)",
+                    "rss_atom": "最新的 {limit} 新产品 (Atom)"
                 },
                 "popular": {
                     "heading": "热销产品",
-                    "intro": "The popular products feed contains the top {limit} most popular products on {store} as rated by users.",
-                    "rss": "Latest {limit} Popular Products (RSS)",
-                    "rss_atom": "Latest {limit} Popular Products (Atom)"
+                    "intro": "最热销的产品内容包含在最上面 {limit} 产品在 {store} 根据顾客的评级.",
+                    "rss": "最新的 {limit} 最热销的产品 (RSS)",
+                    "rss_atom": "最新的 {limit} 最热销的产品 (Atom)"
                 },
                 "featured": {
                     "heading": "推荐产品",
-                    "intro": "The featured products feed contains the latest {limit} featured products on {store}.",
-                    "rss": "Latest {limit} Featured Products (RSS)",
-                    "rss_atom": "Latest {limit} Featured Products (Atom)"
+                    "intro": "推荐产品内容包括最新的 {limit} 推荐产品 {store}.",
+                    "rss": "最新的 {limit} 推荐产品 (RSS)",
+                    "rss_atom": "最新的 {limit} 推荐产品 (Atom)"
                 }
             },
             "search": {
                 "heading": "产品搜索",
-                "intro1": "Product search feeds allow you to save your custom product searches as syndication feed that will always update when there are new results.",
-                "intro2": "To create a product search feed, perform a standard search on {store} and at the bottom of the page click on one of the syndication options."
+                "intro1": "产品搜索内容可让您将自定义产品搜索另存为联合供稿，当有新结果时将不断更新为新的内容.",
+                "intro2": "创建产品的内容供稿，您可以在{store}进行常规搜索，然后再页面下面点击供稿的选项."
             }
         }
     },
     "forms": {
-        "range": "您必须输入数字在You need to enter numbers only between: {limitTo} 和 and {limitFrom} 之间",
+        "range": "您必须输入数字在: {limitTo} 和 {limitFrom} 之间",
         "contact_us": {
-            "full_name": "姓名 Full Name",
-            "email": "Email 邮箱地址 Address",
-            "company": "公司名字 Company Name",
-            "phone": "电话号码 Phone Number",
-            "order": "订单号码 Order Number",
-            "rma": "RMA 数字 RMA Number",
-            "question": "评论或者问题 Comments/Questions",
-            "submit": "提交表格 Submit Form",
-            "successful": "我们收到了您的反馈，会最快的时间答复您，谢谢 We've received your feedback and will respond shortly if required. <a href=\"{shopPath}\">继续 Continue</a>."
+            "full_name": "姓名",
+            "email": "Email 邮箱地址",
+            "company": "公司名字",
+            "phone": "电话号码",
+            "order": "订单号码",
+            "rma": "RMA 号码",
+            "question": "评论或问题",
+            "submit": "提交表格",
+            "successful": "我们收到了您的反馈，会最快的时间答复您，谢谢. <a href=\"{shopPath}\">继续</a>."
         },
         "create_account": {
-            "submit_value": "创建账户 Create Account"
+            "submit_value": "创建账户"
         },
         "new_password": {
-            "heading": "改变密码 Change Password",
-            "password": "新密码 New Password",
-            "password2": "确认密码 Confirm Password",
-            "submit_value": "继续 Continue"
+            "heading": "更改密码",
+            "password": "新密码",
+            "password2": "确认密码",
+            "submit_value": "继续"
         },
         "address": {
             "add": {
-                "heading": "加入新的密码 Add New Address",
-                "description": "用下面的表格来改变你的邮寄地址.完成后，请点击'保存'地址按钮. Use the form below to change any/all details of your shipping address. Click the 'Save Address' button when you are done."
+                "heading": "加入新的地址",
+                "description": "用下面的表格来改变你的邮寄地址.完成后，请点击'保存地址'按钮."
             },
             "edit": {
-                "heading": "更新地址 Update Address"
+                "heading": "更新地址"
 
             },
-            "confirm_delete": "您确认要删除这个地址? Are you sure you want to delete this address?",
-            "submit_value": "保存地址 Save Address"
+            "confirm_delete": "您确认要删除这个地址?",
+            "submit_value": "保存地址"
         },
         "payment_methods": {
             "add": {
-                "heading": "加入付款方式 Add Payment Method"
+                "heading": "加入付款方式"
             },
             "edit": {
-                "heading": "更新付款方式 Update Payment Method"
+                "heading": "更新付款方式"
             },
-            "confirm_delete": "您确认您想删除这个付款方式? Are you sure you want to delete this payment method?",
-            "submit_value": "保存付款方式 Save Payment Method",
-            "first_name": "名 First Name",
-            "last_name": "姓 Last Name",
-            "company": "公司名字 Company Name",
-            "phone": "电话号码 Phone Number",
-            "address1": "地址第一行 Address Line 1",
-            "address2": "地址第二行 Address Line 2",
-            "city": "县区/城市 Suburb/City",
-            "country": "国家 Country",
-            "state": "洲/省份 State/Province",
-            "postal_code": "邮编号码 Zip/Postcode",
-            "choose_country": "选择一个国家 Choose a Country",
-            "default_instrument": "默认付款方式 Default Payment Method"
+            "confirm_delete": "您确认您想删除这个付款方式?",
+            "submit_value": "保存付款方式",
+            "first_name": "名",
+            "last_name": "姓",
+            "company": "公司名字",
+            "phone": "电话号码",
+            "address1": "地址",
+            "address2": "地址(继续)",
+            "city": "县区/城市",
+            "country": "国家",
+            "state": "洲/省份",
+            "postal_code": "邮编号码",
+            "choose_country": "选择一个国家",
+            "default_instrument": "默认付款方式"
         },
         "gift_certificate": {
             "purchase": {
-                "to_name": "收件人名字 Recipient's Name",
-                "to_email": "收件人邮箱 Recipient's Email",
-                "from_name": "您的名字 Your Name",
-                "from_email": "您的邮箱 Your Email",
-                "message": "可填可不填写信息 Optional Message",
-                "amount": "数量 Amount",
-                "theme": "礼卡券主题 Gift Certificate Theme",
-                "custom_range": "(Value must be between {min} and {max})",
-                "agree": "我理解礼品券在 I understand that Gift Certificates expire after {days, plural, one {1 day} other {# days}} 之后过期",
-                "agree2": "我同意礼品券是不可以退回的 I agree that Gift Certificates are nonrefundable",
-                "preview": "预览 Preview",
-                "preview_error": "下载预览出现了问题，请稍后再试.There was a problem loading the preview. Please try again later.",
-                "submit_value": "加入礼品券到购物车 Add Gift Certificate to Cart"
+                "to_name": "收件人名字",
+                "to_email": "收件人邮箱",
+                "from_name": "您的名字",
+                "from_email": "您的邮箱",
+                "message": "(可选)填写信息",
+                "amount": "数量",
+                "theme": "礼卡券主题",
+                "custom_range": "(价值再 {min} 和 {max} 之间)",
+                "agree": "我理解礼品券在 {days, plural, one {1 day} other {# days}} 之后过期",
+                "agree2": "我同意礼品券是不可退回的",
+                "preview": "预览",
+                "preview_error": "下载预览出现了问题，请稍后再试.",
+                "submit_value": "加入礼品券到购物车"
             },
             "balance": {
-                "code": "礼品券代码 Gift Certificate Code",
-                "submit_value": "查看余额 Check Balance"
+                "code": "礼品券代码",
+                "submit_value": "查看余额"
             }
         },
         "inbox": {
-            "order": "订单 Order:",
-            "order_display": "订单 Order #{id} - 购买于 Placed on {date} 一共是 for {total}",
-            "subject": "主题 Subject",
-            "message": "短信 Message",
-            "submit_value": "发短信 Send Message",
-            "send_message": "发送一个短信 Send a Message",
-            "clear_value": "清除 Clear",
-            "no_orders": "您下单后，您将可发送消息 Once you place an order you'll have full access to send messages from this page."
+            "order": "订单:",
+            "order_display": "订单#{id} - 购买于 {date} 一共是{total}",
+            "subject": "主题",
+            "message": "短信",
+            "submit_value": "发短信",
+            "send_message": "发送一个短信",
+            "clear_value": "清除",
+            "no_orders": "您下单后，您将有权在此页发送消息."
         },
         "search": {
             "query": "搜索关键词",
-            "show": "显示搜索表格 Show Search Form",
-            "hide": "隐藏搜索表格 Hide Search Form",
-            "title": "高级搜索 Advanced Search",
-            "price_range": "价格区间 Price Range",
-            "by_price": "根据价格搜索 Search By Price",
-            "by_setting": "根据设置搜索 Search By Setting",
-            "search": "搜索 Search",
+            "show": "显示搜索表格",
+            "hide": "隐藏搜索表格",
+            "title": "高级搜索",
+            "price_range": "价格区间",
+            "by_price": "根据价格搜索",
+            "by_setting": "根据设置搜索",
+            "search": "搜索",
             "free_shipping": {
-                "title": "免运费 Free Shipping",
-                "free": "免运费 Only Free Shipping",
-                "paid": "需运费 Only Paid Shipping"
+                "title": "免邮",
+                "free": "只免邮",
+                "paid": "只需要运费"
             },
             "featured_products": {
-                "title": "精选产品 Featured Products",
-                "enabled": "只要精选产品 Only Featured Products",
-                "disabled": "只要普通产品 Only Non-Featured Products"
+                "title": "精选产品",
+                "enabled": "只要精选产品",
+                "disabled": "只要普通产品"
             },
-            "categories": "类型 Categories",
-            "did_you_mean": "您的意思是: Did you mean:",
-            "your_search_for": "你搜索的是 Your search for",
-            "no_match": "没有搜到任何产品和信息 did not match any products or information.",
+            "categories": "类型",
+            "did_you_mean": "您的意思是:",
+            "your_search_for": "你搜索的是",
+            "no_match": "没有搜到任何对应的产品和信息.",
             "suggestions": {
-                "title": "建议: Suggestions:",
-                "line1": "确保每个词语都拼对了 Make sure all words are spelled correctly.",
-                "line2": "请尝试不同的关键词 Try different keywords.",
-                "line3": "请尝试更宽泛的关键词 Try more general keywords."
+                "title": "建议:",
+                "line1": "确保每个词语都拼对了.",
+                "line2": "请尝试不同的关键词.",
+                "line3": "请尝试更宽泛的关键词."
             },
-            "refine": "筛选优化搜索 Refine Search",
-            "brand": "牌子 Brands",
-            "searchsubs": "自动搜索分支类型 Automatically search sub categories"
+            "refine": "筛选优化搜索",
+            "brand": "牌子",
+            "searchsubs": "自动搜索分支类型"
         },
         "wishlist": {
-            "name": "心愿单名字 Wish List Name:",
-            "public": "分享心愿单吗? Share Wish List?"
+            "name": "心愿单名:",
+            "public": "分享心愿单吗?"
         },
         "validate": {
             "account": {
                 "edit": {
-                    "password": "您必须输入你现在的密码. You must enter your current password.",
-                    "first_name": "您必须输入你的名.You must enter a first name.",
-                    "last_name": "您必须输入你的姓.You must enter a last name.",
-                    "phone": "您必须输入一个电话号码.You must enter a phone number."
+                    "password": "您必须输入你现在的密码.",
+                    "first_name": "您必须输入你的名.",
+                    "last_name": "您必须输入你的姓.",
+                    "phone": "您必须输入一个电话号码."
                 },
                 "reorder": {
-                    "select_item": "请选择一个或者更多物品重新下订 Please select one or more items to reorder."
+                    "select_item": "请选择一个或者更多物品重新下单."
                 },
                 "inbox": {
-                    "order": "您必须选择一个订单 You must select an order.",
-                    "subject": "您必须属于一个主题 You must enter a subject.",
-                    "message": "您必须输入一个信息 You must enter a message."
+                    "order": "您必须选择一个订单.",
+                    "subject": "您必须属于一个主题.",
+                    "message": "您必须输入一个信息."
                 }
             },
             "common": {
-                "name": "您必须输入你的名字 You must enter your name.",
-                "password": "您必须输入一个密码 You must enter a password.",
-                "password_match": "您的密码不一致 Your passwords do not match.",
-                "email_address": "请用一个有效的邮箱地址，比如 Please use a valid email address, such as user@example.com.",
-                "valid_email": "您必须输入一个有效的邮箱 You must enter a valid email."
+                "name": "您必须输入你的名字.",
+                "password": "您必须输入一个密码.",
+                "password_match": "您的密码不一致.",
+                "email_address": "请用一个有效的邮箱地址，比如 user@example.com.",
+                "valid_email": "您必须输入一个有效的邮箱."
             },
             "contact": {
-                "email_address": "请用一个有效的邮箱地址, Please use a valid email address, such as user@example.com.",
-                "question": "您必须输入你的问题. You must enter your question."
+                "email_address": "请用一个有效的邮箱地址, 比如 user@example.com.",
+                "question": "您必须输入您的问题."
             },
             "gift": {
-                "to_name": "您必须输入一个有效的收件人. You must enter a valid recipient name.",
-                "to_email": "您必须输入一个有效的收件人邮箱. You must enter a valid recipient email.",
-                "from_name": "您必须输入你的名字. You must enter your name.",
-                "from_email": "您必须输入有效的邮箱. You must enter a valid email.",
-                "cert_theme": "您必须选择一个礼品券主题. You must select a gift certificate theme.",
-                "agree_terms": "您必须同意这些条款. You must agree to these terms.",
-                "amount": "您必须输入礼品券数量. You must enter a gift certificate amount."
+                "to_name": "您必须输入一个有效的收件人名字.",
+                "to_email": "您必须输入一个有效的收件人邮箱.",
+                "from_name": "您必须输入您的名字.",
+                "from_email": "您必须输入有效的邮箱.",
+                "cert_theme": "您必须选择一个礼品券主题.",
+                "agree_terms": "您必须同意这些条款.",
+                "amount": "您必须输入礼品券数量."
             },
             "payment_method": {
-                "credit_card_number": "您必须输入一个有效的信用卡号码. You must enter a valid credit card number.",
-                "expiration": "您必须输入一个有效的过期日. You must enter a valid expiration date.",
-                "name_on_card": "您必须输入一个名字. You must enter a name.",
-                "cvv": "您必须输入一个有效的cvv. You must enter a valid cvv."
+                "credit_card_number": "您必须输入一个有效的信用卡号码.",
+                "expiration": "您必须输入一个有效的过期日.",
+                "name_on_card": "您必须输入持卡人姓名.",
+                "cvv": "您必须输入一个有效的cvv."
             },
             "reviews": {
-                "rating": "'评级'领域不能空白. The 'Rating' field cannot be blank.",
-                "title": "这个评论主题领域不能空白. The 'Review Subject' field cannot be blank.",
-                "comment": "这个评价领域不能空白. The 'Comments' field cannot be blank."
+                "rating": "'评级'领域不能空白.",
+                "title": "这个评论主题领域不能空白.",
+                "comment": "这个评价领域不能空白."
             }
         }
     },
     "products": {
-        "current_stock": "目前数量: Current Stock:",
-        "quantity": "数量 Quantity:",
-        "quantity_decrease": "减少数量 Decrease Quantity:",
-        "quantity_increase": "增加数量 Increase Quantity:",
-        "purchase_units": "{quantity, plural, =0{0 units} 一个 one {# unit} 其他 other {# units}}",
-        "max_purchase_quantity": "最多可购买 Maximum Purchase:",
-        "min_purchase_quantity": "最低可购买 Minimum Purchase:",
+        "current_stock": "目前存货:",
+        "quantity": "数量:",
+        "quantity_decrease": "减少数量:",
+        "quantity_increase": "增加数量:",
+        "purchase_units": "{quantity, plural, =0{0 units} 一个 {# unit} 其他 {# units}}",
+        "max_purchase_quantity": "最多可购买:",
+        "min_purchase_quantity": "最低可购买:",
         "related_products": "相关产品",
         "top": "最热销产品",
-        "similar_by_views": "顾客同时也浏览了 Customers Also Viewed",
+        "similar_by_views": "其他顾客也同时浏览了",
         "featured": "热门推荐",
-        "file_option_set": "目前 Currently: <a href=\"{url}\" target=\"_blank\">{name}</a>",
+        "file_option_set": "目前 : <a href=\"{url}\" target=\"_blank\">{name}</a>",
         "new": "最新产品",
         "warranty": "质保说明",
         "reviews": {
-            "hide": "隐藏评语Hide Reviews",
-            "new": "写评语Write a Review",
-            "show": "显示评语Show Reviews",
-            "header": "{total, plural, =0{0 Reviews} 一个 one {# Review} 其他 other {# Reviews}}",
-            "link_to_review": "({total, plural, =0{No reviews yet} 一个 one {# review} 其他 other {# reviews}})",
-            "post_on_by": "评论人：Posted by { name } 在 on { date }",
-            "rating_label": "评级 Rating",
-            "select_rating": "选择评级 Select Rating",
-            "anonymous_poster": "匿名 Unknown",
+            "hide": "隐藏评语",
+            "new": "写评语",
+            "show": "显示评语",
+            "header": "{total, plural, =0{0 Reviews} 一个 {# Review} 其他 {# Reviews}}",
+            "link_to_review": "({total, plural, =0{No reviews yet} 一个{# review} 其他 {# reviews}})",
+            "post_on_by": " { name } 评价于 { date }",
+            "rating_label": "评级",
+            "select_rating": "选择评级",
+            "anonymous_poster": "匿名",
             "rating": {
-                "1": "1 star 星 (最差worst)",
-                "2": "2 stars 星",
-                "3": "3 stars 星(中等average)",
-                "4": "4 stars 星",
-                "5": "5 stars 星(最好best)"
+                "1": "1 星 (最差)",
+                "2": "2 星",
+                "3": "3 星(中等)",
+                "4": "4 星",
+                "5": "5 星(最好)"
             },
-            "write_a_review": "写评论 Write a Review",
+            "write_a_review": "写评论",
             "form_write": {
-                "name": "名字Name",
-                "email": "邮箱Email",
-                "subject": "评价物品Review Subject",
-                "comments": "评论 Comments",
-                "submit_value": "提交评论 Submit Review"
+                "name": "名字",
+                "email": "邮箱",
+                "subject": "评价主题",
+                "comments": "评论",
+                "submit_value": "提交评论"
             }
         },
         "videos": {
-            "header": "视频 Videos",
-            "hide": "隐藏视频 Hide Videos",
-            "show": "显示视频 Show Videos"
+            "header": "视频",
+            "hide": "隐藏视频",
+            "show": "显示视频"
         },
-        "add_to_cart": "加入购物车 Add to Cart",
-        "adding_to_cart": "正在加入购物车 Adding to cart…",
-        "options": "选项 Options",
-        "none": "不存在 None",
+        "add_to_cart": "加入购物车",
+        "adding_to_cart": "正在加入购物车…",
+        "options": "选项",
+        "none": "不存在",
         "sku": "SKU:",
         "upc": "UPC:",
-        "condition": "目前情况 Condition:",
-        "availability": "存货 Availability:",
-        "shipping": "运输 Shipping:",
-        "shipping_fixed": "{amount} (Fixed Shipping Cost)",
-        "shipping_free": "免运费 Free Shipping",
-        "shipping_calculated": "在结账单计算运费 Calculated at Checkout",
-        "sold_out": "售罄 Sold Out",
-        "pre_order": "预订 Pre-Order Now",
-        "choose_options": "查看选项 View Options",
-        "quick_view": "快速查看 Quick view",
-        "compare": "对比 Compare",
-        "max_filesize": "最大文件大小是 Maximum file size is",
-        "filetypes": "文件类型是 file types are",
-        "choose_an_option": "请选择一个选项 Please choose an option",
-        "select_one": "请选择一个 Please select one",
-        "description": "描述 Description",
-        "price_with_tax": "(Inc. {tax_label})",
-        "price_without_tax": "(Ex. {tax_label})",
-        "including_tax": "含税 Including Tax",
-        "excluding_tax": "不含税 Excluding Tax",
-        "weight": "重量 Weight:",
-        "width": "宽度 Width:",
-        "height": "高度 Height:",
-        "depth": "深度 Depth:",
+        "condition": "目前情况:",
+        "availability": "存货:",
+        "shipping": "运输:",
+        "shipping_fixed": "{amount} (固定邮费)",
+        "shipping_free": "免邮",
+        "shipping_calculated": "在结账单计算运费",
+        "sold_out": "售罄",
+        "pre_order": "现在预订",
+        "choose_options": "查看选项",
+        "quick_view": "快速查看",
+        "compare": "对比",
+        "max_filesize": "最大文件大小是",
+        "filetypes": "文件类型是",
+        "choose_an_option": "请选择一个选项",
+        "select_one": "请选择一个",
+        "description": "描述",
+        "price_with_tax": "(包含 {tax_label})",
+        "price_without_tax": "(不包含 {tax_label})",
+        "including_tax": "含税",
+        "excluding_tax": "不含税",
+        "weight": "重量:",
+        "width": "宽度:",
+        "height": "高度:",
+        "depth": "深度:",
         "measurement": {
             "metric": "cm",
             "imperial": "in"
         },
-        "you_save_opening_text": "(你可节省 You save",
+        "you_save_opening_text": "(您省下",
         "you_save_closing_bracket": ")",
-        "gift_wrapping": "礼物包装 Gift wrapping:",
-        "gift_wrapping_available": "选项含有 Options available",
-        "quantity_min": "最少的购买数量是 The minimum purchasable quantity is {quantity}",
-        "quantity_max": "最高的购买数量是 The maximum purchasable quantity is {quantity}",
+        "gift_wrapping": "礼物包装:",
+        "gift_wrapping_available": "选项含有",
+        "quantity_min": "最少的购买数量是 {quantity}",
+        "quantity_max": "最高的购买数量是 {quantity}",
         "bulk_pricing": {
-            "title": "批量价 Bulk Pricing:",
-            "view": "批量购买Buy in bulk and save",
-            "modal_title": "批量购买折扣Bulk discount rates",
-            "instructions": "以下是批量购买折扣率Below are the available bulk discount rates for each individual item when you purchase a certain amount",
-            "range": "买 Buy {min} {max, plural, =0{or above} other {- #}}",
-            "percent": "获得 and get {discount} off",
-            "price": "且获得 and get {discount} off",
-            "fixed": " 只付每个 and pay only {discount} each"
+            "title": "批量价:",
+            "view": "批量购买和节省",
+            "modal_title": "批量购买折扣",
+            "instructions": "以下是每个商品的批量购买的折扣率",
+            "range": "买 {min} {max, plural, =0{or above} other {- #}}",
+            "percent": "和获得 {discount} 折",
+            "price": "且获得 {discount} 折",
+            "fixed": " 只付每个 {discount} "
         }
     },
     "invoice": {
-        "for_order": "{name} 订单收据 Invoice for Order #{id}",
-        "phone": "电话：Phone: {number}",
-        "email": "邮箱 Email: {email}",
-        "order": "订单 Order:",
-        "payment_method": " 付款方式 Payment Method:",
-        "order_date": "订单日期 Order Date:",
-        "shipping_method": "运输方式 Shipping Method:",
-        "order_items": "订单物品 Order Items",
-        "qty": "数量 Qty",
+        "for_order": "{name} 订单收据 #{id}",
+        "phone": "电话: {number}",
+        "email": "邮箱: {email}",
+        "order": "订单:",
+        "payment_method": " 付款方式:",
+        "order_date": "订单日期:",
+        "shipping_method": "运输方式:",
+        "order_items": "订单物品",
+        "qty": "数量",
         "code": "Code/SKU",
-        "shipping_address": " 送货地址 Shipping Address",
-        "product_name": " 产品名称 Product Name",
-        "price": "价格 Price",
-        "total": "总价 Total",
-        "comments": "评论 Comments"
+        "shipping_address": " 送货地址",
+        "product_name": " 产品名称",
+        "price": "价格",
+        "total": "总价",
+        "comments": "评论"
     },
     "newsletter": {
-        "subscribe": "通讯登记 Newsletter Signup",
-        "subscribe_intro": "得到最新的产品和优惠消息 Get the latest updates on new products and upcoming sales",
-        "subscribe_submit": "订阅 Subscribe",
-        "email_placeholder": "输入你的邮箱地址 Enter your email address",
-        "subscribed_heading": "欢迎订阅 Thanks for Subscribing!",
+        "subscribe": "通讯登记",
+        "subscribe_intro": "得到最新的产品和促销信息",
+        "subscribe_submit": "订阅",
+        "email_placeholder": "输入您的邮箱地址",
+        "subscribed_heading": "欢迎订阅!",
         "subscribed_heading_error": "Oops...",
-        "subscribed_message": "谢谢你加入我们的订阅Thank you for joining our mailing list. You'll be sent the next issue of our newsletter shortly",
-        "unsubscribed_heading": "取消订阅 Unsubscribed!",
-        "unsubscribed_message": " 您将不会收到来自我们的邮件 You will no longer receive marketing emails from <b>{store_name}</b>"
+        "subscribed_message": "谢谢您加入订阅.您将会很快收到下一次的通讯信息",
+        "unsubscribed_heading": "取消订阅!",
+        "unsubscribed_message": " 您将不会收到来自我们商铺 <b>{store_name}</b> 的邮件"
     },
     "social": {
-        "connect": "跟随我们 Follow Us"
+        "connect": "跟随我们"
     },
     "errors": {
-        "shipping_quote_failure": "您的邮费暂时出现了问题 There was a problem retrieving your shipping quote",
-        "state_error": "您的洲/省份出现了问题 There was a problem retrieving states/provinces"
+        "shipping_quote_failure": "您的邮费暂时出现了问题",
+        "state_error": "您的洲/省份出现了问题"
     },
     "search": {
         "quick_search": {
@@ -811,66 +811,66 @@
             "input_placeholder": "输入搜索关键词或者物品名称"
         },
         "results": {
-            "form_label": "搜索关键词 Search Keyword:",
-            "form_button_text": "搜索 Search",
-            "count": "{ count, plural, one {# result} other {# results} } for '{ search_query }'",
-            "quick_count": "{ count, plural, one {# product result} other {# product results} } for '{ search_query }'",
-            "product_count": "产品 Products ({count})",
-            "content_count": "新闻 & 信息 News & Information ({count})"
+            "form_label": "搜索关键词:",
+            "form_button_text": "搜索",
+            "count": "{ count, plural, one {# result} other {# results} } 为了 '{ search_query }'",
+            "quick_count": "{ count, plural, one {# product result} other {# product results} } 为了 '{ search_query }'",
+            "product_count": "产品 ({count})",
+            "content_count": "新闻 & 信息 ({count})"
         },
         "faceted": {
             "selected": {
-                "title": "过滤 Refine by",
-                "rating-label": "评价 Rated {rating, plural, one {# Star} other {# Stars}} Or More",
-                "no-filters": "没有筛选设置 No filters applied",
-                "clear-all": "清除所有筛选条件 Clear all"
+                "title": "过滤",
+                "rating-label": "评价{rating, plural, one {# Star} other {# Stars}} 或更多",
+                "no-filters": "没有筛选设置",
+                "clear-all": "清除所有筛选条件"
             },
             "range": {
-                "update": "更新 Update",
-                "min-placeholder": "最小 Min.",
-                "max-placeholder": "最大 Max."
+                "update": "更新",
+                "min-placeholder": "最小.",
+                "max-placeholder": "最大."
             },
             "rating": {
                 "and-up": "& 以上"
             },
-            "clear": "清楚 Clear",
-            "more": "更多 More",
-            "show-more": "显示更多 Show More",
-            "show-less": "显示更少 Show Less",
-            "show-filters": "显示筛选 Show Filters",
-            "hide-filters": "隐藏筛选 Hide Filters",
-            "browse-by": "浏览依据 Browse by"
+            "clear": "清楚",
+            "more": "更多",
+            "show-more": "显示更多",
+            "show-less": "显示更少",
+            "show-filters": "显示筛选",
+            "hide-filters": "隐藏筛选",
+            "browse-by": "浏览依据"
         },
         "error": {
-            "empty_field": "搜索栏不能够空白 Search field cannot be empty."
+            "empty_field": "搜索栏不能够空白."
         }
     },
     "page_not_found": {
-        "page_heading": "404 错误 - 网页无法找到 404 Error - Page not found",
-        "message": "Uh oh, 您所找的网页已经转移位置或者已经不存在，请联系本站说明情况 looks like the page you are looking for has moved or no longer exists."
+        "page_heading": "404 错误 - 网页无法找到",
+        "message": "Uh oh, 您所找的网页已经转移位置或者已经不存在，请联系本站说明情况."
     },
     "server_error": {
-        "page_heading": "有些东西出了问题 Something Went Wrong...",
-        "message": "商铺暂时下线，请几分钟后再试 Store is currently unavailable, please try again in a few minutes"
+        "page_heading": "请稍后再试...",
+        "message": "商铺暂时维护中，请几分钟后再试"
     },
     "forbidden": {
-        "page_heading": "不好意思，如需继续，请登录 Sorry! Please sign in to continue",
-        "if_you_were_signed_in": "如果你已经登录 If you were signed in,",
-        "sign_in": "请再次登录 please sign back in",
-        "to_continue": ", 请在新的环节恢复你的工作 to resume your work in a new session."
+        "page_heading": "不好意思，如需继续，请登录",
+        "if_you_were_signed_in": "如果您已经登录,",
+        "sign_in": "请再次登录",
+        "to_continue": ", 在新的环节恢复您的任务."
     },
     "sitemap": {
-        "page_title": "本站地图 Sitemap",
-        "show_all_link": "显示所有 Show All"
+        "page_title": "本站地图",
+        "show_all_link": "显示所有"
     },
     "text_truncate": {
-        "view_more": "显示更多细节 View more details",
-        "view_less": "隐藏更多细节 Hide details"
+        "view_more": "显示更多细节",
+        "view_less": "隐藏更多细节"
     },
     "cookies": {
-        "accept": "接受 Accept Cookies"
+        "accept": "接受Cookies"
     },
     "maintenance": {
-        "down": "网站例行维护中...请稍后再试 Down for Maintenance"
+        "down": "网站例行维护中...请稍后再试"
     }
 }
